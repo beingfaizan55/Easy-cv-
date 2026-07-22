@@ -1,0 +1,6 @@
+{
+  "name": "Easy CV",
+  "description": "An AI-powered professional resume builder and job board, built with Jetpack Compose, Kotlin, and Firebase Firestore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
